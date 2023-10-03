@@ -11,8 +11,10 @@ This is a simple Todo app built using the GetX state management library and foll
 - MVVM architecture for clean and organized code.
 - Efficient state management with GetX.
 
-## Screenshots
+  
+- ## Screenshots
 
+Uploading VID_20231003123542.mp4…
 
 
 ## Getting Started
