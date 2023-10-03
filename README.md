@@ -14,7 +14,10 @@ This is a simple Todo app built using the GetX state management library and foll
   
 - ## Screenshots
 
-Uploading VID_20231003123542.mp4…
+
+
+https://github.com/nehatanwar2698/todo_app_getx/assets/66877730/1012d152-2060-4d88-ad34-45eb17612a66
+
 
 
 ## Getting Started
